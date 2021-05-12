@@ -1,1 +1,1 @@
-# GASP
+Code for GASP: Graph-based Approximate Sequential Pattern Mining
